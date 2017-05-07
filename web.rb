@@ -4,3 +4,8 @@ require 'sinatra'
 get '/' do
   "Hello, world"
 end
+
+# hello
+get '/hello' do
+  "Hello, world 2"
+end
