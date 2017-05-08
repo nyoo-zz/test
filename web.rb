@@ -2,5 +2,5 @@ require 'sinatra'
 
 # index
 get '/' do
-  "Hello, world"
+  'Hello, world'
 end
