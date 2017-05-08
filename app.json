@@ -2,9 +2,6 @@
   "environments": {
     "test": {
       "scripts": {
-        "test-setup": "bundle",
-        "test-setup": "gem install rubocop",
-        "test": "rubocop ."
       }
     }
   }
