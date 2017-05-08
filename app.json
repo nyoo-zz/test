@@ -2,8 +2,7 @@
   "environments": {
     "test": {
       "scripts": {
-        "test-setup": "gem install rubocop",
-        "test": "bin/rubocop ."
+        "test": "echo foo"
       }
     }
   }
