@@ -2,7 +2,7 @@
   "environments": {
     "test": {
       "scripts": {
-        "test": "echo foo"
+        "test": "sleep 30; echo foo"
       }
     }
   }
